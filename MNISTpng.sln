@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNISTpng", "MNISTpng\MNISTpng.csproj", "{695F788F-C86C-41C2-88F4-AD29AD59E4EA}"
 EndProject
@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTester", "Console
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Article", "Article\", "{B0A392D1-66E9-4E37-89B4-5705ECF3D802}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55859"
 		Debug.AspNetCompiler.PhysicalPath = "Article\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55859\"
